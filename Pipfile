@@ -12,6 +12,9 @@ matplotlib = "*"
 jupyter = "*"
 openai = "*"
 huggingface-hub = "*"
+jupyterlab = "*"
+cohere = "*"
+tiktoken = "*"
 
 [dev-packages]
 
